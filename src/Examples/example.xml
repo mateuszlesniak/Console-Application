@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<root>
+    <message>Request Successful</message>
+    <id>P7CZW0</id>
+    <nameDisplay>Sassy Lassie</nameDisplay>
+    <description>This is our third collaboration with some of our Founders club members. A traditional Irish Red, with
+        aromas of caramel, flavors of biscuit or toast. Loads of Maris Otter (British Pale) malt is the backbone of this
+        beer. Crystal120 and roasted barley give the beer it's color and flavors. Very lightly hopped to accentuate the
+        malt charcter of the style. Founders chose to do an Irish Red due to the timing of when this beer will be
+        available to go on tap, which is around St. Patricks Day.
+    </description>
+    <abv>5.2</abv>
+    <ibu>17</ibu>
+    <availableId>4</availableId>
+    <styleId>22</styleId>
+    <isOrganic>N</isOrganic>
+    <status>verified</status>
+    <statusDisplay>Verified</statusDisplay>
+    <updateDate>2015-03-06 21:59:40</updateDate>
+    <id>4</id>
+    <name>Seasonal</name>
+    <description>Available at the same time of year, every year.</description>
+    <id>22</id>
+    <categoryId>2</categoryId>
+    <id>2</id>
+    <name>Irish Origin Ales</name>
+    <createDate>2012-03-21 20:06:45</createDate>
+    <name>Irish-Style Red Ale</name>
+    <shortName>Irish Red</shortName>
+    <description>Irish-style red ales range from light red-amber-copper to light brown in color. These ales have a
+        medium hop bitterness and flavor. They often don't have hop aroma. Irish-style red ales have low to medium
+        candy-like caramel malt sweetness and may have a balanced subtle degree of roast barley or roast malt character
+        and complexity. Irish-style Red Ales have a medium body. The style may have low levels of fruity-ester flavor
+        and aroma. Diacetyl should be absent or at very low levels. Chill haze is allowable at cold temperatures. Slight
+        yeast haze is acceptable for bottle-conditioned products.
+    </description>
+    <ibuMin>20</ibuMin>
+    <ibuMax>28</ibuMax>
+    <abvMin>4</abvMin>
+    <abvMax>4.5</abvMax>
+    <srmMin>11</srmMin>
+    <srmMax>18</srmMax>
+    <ogMin>1.04</ogMin>
+    <fgMin>1.01</fgMin>
+    <fgMax>1.014</fgMax>
+    <createDate>2012-03-21 20:06:45</createDate>
+    <updateDate>2015-04-07 15:23:38</updateDate>
+    <status>success</status>
+</root>

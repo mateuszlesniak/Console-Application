@@ -1,0 +1,52 @@
+{
+  "id": "oeGSxs",
+  "name": "Naughty 90",
+  "nameDisplay": "Naughty 90",
+  "description": "Our Naughty 90 Oaked IPA was inspired by ocean bound, oak barreled brews of t  he 1800’s. Packed with hops on a 90-minute schedule, uniquely malted, then aged on a bed of oa  k, this IPA delivers a taste that is both innovative and timeless.",
+  "abv": "6.2",
+  "ibu": "100",
+  "glasswareId": 5,
+  "availableId": 4,
+  "styleId": 30,
+  "isOrganic": "N",
+  "labels": {
+    "icon": "https://s3.amazonaws.com/brewerydbapi/beer/oeGSxs/upload_FiPLQC-icon.png",
+    "medium": "https://s3.amazonaws.com/brewerydbapi/beer/oeGSxs/upload_FiPLQC-medium.png",
+    "large": "https://s3.amazonaws.com/brewerydbapi/beer/oeGSxs/upload_FiPLQC-large.png"
+  },
+  "status": "verified",
+  "statusDisplay": "Verified",
+  "createDate": "2012-01-03 02:43:45",
+  "updateDate": "2015-12-16 10:34:27",
+  "glass": {
+    "id": 5,
+    "name": "Pint",
+    "createDate": "2012-01-03 02:41:33"
+  },
+  "available": {
+    "id": 4,
+    "name": "Seasonal",
+    "description": "Available at the same time of year, every year."
+  },
+  "style": {
+    "id": 30,
+    "categoryId": 3,
+    "category": {
+      "OBJECT": "OBJECT"
+    },
+    "name": "American-Style India Pale Ale",
+    "shortName": "American IPA",
+    "description": "American-style India pale ales are perceived to have medium-high to intense hop bitterness, flavor and aroma with medium-high alcohol content. The style is further characterized by floral, fruity, citrus-like, piney, resinous, or sulfur-like American-variety hopcharacter. Note that one or more of these American-variety hop characters is the perceived end, but the hop characters may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a cri",
+    "ibuMin": "50",
+    "ibuMax": "70",
+    "abvMin": "6.3",
+    "abvMax": "7.5",
+    "srmMin": "6",
+    "srmMax": "14",
+    "ogMin": "1.06",
+    "fgMin": "1.012",
+    "fgMax": "1.018",
+    "createDate": "2012-03-21 20:06:45",
+    "updateDate": "2015-04-07 15:26:37"
+  }
+}

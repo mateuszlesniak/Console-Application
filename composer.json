@@ -1,0 +1,23 @@
+{
+  "autoload": {
+    "psr-0": {
+      "": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7",
+    "nategood/commando": "*"
+  },
+  "require-dev": {
+  },
+  "scripts": {
+    "post-install-cmd": [
+    ],
+    "post-update-cmd": [
+    ]
+  },
+  "config": {
+  },
+  "extra": {
+  }
+}
